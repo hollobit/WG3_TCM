@@ -1,40 +1,49 @@
-# WG3_TCM
+# Trustworthiness characteristics matrix V5 (WIP)
+## ISO/IEC JTC/1 SC42 WG3 
 
-## ISO/IEC JTC/1 SC42 WG3 Trustworthiness characteristics matrix V5 (WIP)
+This is a matrix to provide relationship information of trustworthiness characteristics
 
 <table>
 <thead>
 <tr>
-<th align="center" colspan="15">Deliverable</th>
+  <th></th>
+  <th></th>
+  <th align="center" colspan="15">Deliverable</th>
 </tr>
 <tr>
+  <th></th>
+  <th></th>
   <th align="center" colspan="8">Informative</th>
   <th align="center" colsapn="12">Normative</th>
   </tr>
 <tr>
-  <th align="center">TR 24027:2021</th>
-  <th align="center">TR 29119-11:2020</th>
-  <th align="center">TR 24030:2021</th>
-  <th align="center">TR 24028:2020</th>
-  <th align="center">TR 24029-1:2021</th>
-  <th align="center">DIS 24029-2</th>
-  <th align="center">PRF TR 24368</th>
-  <th align="center">AWI TR 5469</th>
-  <th align="center">IS 38507:2022</th>
-  <th align="center">IS 22989</th>
-  <th align="center">DIS 23894</th>
-  <th align="center">AWI TS 12791</th>
-  <th align="center">AWI TS 8200</th>
-  <th align="center">TS 6254</th>
-  <th align="center">DTS 4213.2</th>
-  <th align="center">CD 42001</th>
-  <th align="center">DIS 25059</th>
-  <th align="center">AWI 12792</th>
-  <th align="center">CD 5338</th>
-  <th align="center">TS 5471|</th>
+  <th></th>
+  <th></th>
+  <th align="center"><a href="https://www.iso.org/obp/ui#iso:std:iso-iec:tr:24027:ed-1:v1:en">TR 24027:2021</a></th>
+  <th align="center"><a href="https://www.iso.org/obp/ui#iso:std:iso-iec:tr:29119:-11:ed-1:v1:en">TR 29119-11:2020</a></th>
+  <th align="center"><a href="https://www.iso.org/obp/ui#iso:std:iso-iec:tr:24030:ed-1:v1:en">TR 24030:2021</a></th>
+  <th align="center"><a href="https://www.iso.org/obp/ui#iso:std:iso-iec:tr:24028:ed-1:v1:en">TR 24028:2020</a></th>
+  <th align="center"><a href="https://www.iso.org/obp/ui#iso:std:iso-iec:tr:24029:-1:ed-1:v1:en">TR 24029-1:2021</a></th>
+  <th align="center"><a href="https://www.iso.org/standard/79804.html">DIS 24029-2</a></th>
+  <th align="center"><a href="https://www.iso.org/standard/78507.html">PRF TR 24368</a></th>
+  <th align="center"><a href="https://www.iso.org/standard/81283.html">AWI TR 5469</a></th>
+  <th align="center"><a href="https://www.iso.org/obp/ui#iso:std:iso-iec:38507:ed-1:v1:en">IS 38507:2022</a></th>
+  <th align="center"><a href="https://www.iso.org/standard/74296.html">IS 22989</a></th>
+  <th align="center"><a href="https://www.iso.org/standard/77304.html">DIS 23894</a></th>
+  <th align="center"><a href="https://www.iso.org/standard/84110.html">AWI TS 12791</a></th>
+  <th align="center"><a href="https://www.iso.org/standard/83012.html">AWI TS 8200</a></th>
+  <th align="center"><a href="https://www.iso.org/standard/82148.html">AWI TS 6254</a></th>
+  <th align="center"><a href="https://www.iso.org/standard/79799.html">DTS 4213.2</a></th>
+  <th align="center"><a href="https://www.iso.org/standard/81230.html">CD 42001</a></th>
+  <th align="center"><a href="https://www.iso.org/standard/80655.html">DIS 25059</a></th>
+  <th align="center"><a href="https://www.iso.org/standard/84111.html">AWI 12792</a></th>
+  <th align="center"><a href="https://www.iso.org/standard/81118.html">CD 5338</a></th>
+  <th align="center"><a href="https://www.iso.org/standard/82570.html">AWI TS 5471</a></th>
   </tr>
   <tr>
-  <th align="center">Bias TR</th>
+    <th></th>
+    <th></th>
+    <th align="center">Bias TR</a></th>
   <th align="center">Testing</th>
   <th align="center">Use cases</th>
   <th align="center">Trus tw</th>
@@ -56,6 +65,8 @@
   <th align="center">Qual eval</th>
   </tr>
   <tr>
+    <th></th>
+    <th></th>
     <th align="center">60.60</th>
   <th align="center">60.60</th>
   <th align="center">60.60</th>
@@ -78,37 +89,112 @@
   <th align="center">20.00</th>
 </thead>
   
-<tbody><
+<tbody>
+  <tr>
+    <td>characteristics</td>
+    <td>transparency</td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center">g</td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center">g?</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>bias</td>
+    <td align="center">d, I, S, g</td>
+    <td align="center"></td>
+    <td align="center">d*, I, E</td>
+    <td align="center">g</td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center">D, c</td>
+    <td align="center"></td>
+    <td align="center">d, c</td>
+    <td align="center">c</td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center">g?</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>reliablity</td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center">D*, g</td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center">d?/D?, g</td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center">g?</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>risk</td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center">D*, g</td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center">D, N, g</td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>  
 </tbody>
 </table>
 
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+## Contributing
+
+Issues and Pull Requests are greatly appreciated. If you've never contributed to an open source project before I'm more than happy to walk you through how to create a pull request.
+
+You can start by [opening an issue](https://github.com/hollobit/WG3_TCM/issues/new) describing the problem that you're looking to resolve and we'll go from there.
+
+## License
+
+This software is licensed under the [MIT license](https://opensource.org/licenses/mit-license.php) © Jonghong Jeon
