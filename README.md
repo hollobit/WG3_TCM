@@ -314,7 +314,7 @@ This is a matrix to provide relationship information of trustworthiness characte
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
-    <td align="center"></td>
+    <td align="center"><bold>D*</bold></td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
@@ -1054,6 +1054,10 @@ If a WG3 deliverable imports a definition from an outside project, it’s includ
 * **<a id="DS_autonomous">autonomous</a>** ([ISO/IEC TR 24028:2020][24028], 3.7)
   >characteristic of a system (3.38) governed by its own rules as the result of self-learning <br>
   >Note 1 to entry: Such systems are not subject to external control (3.10) or oversight.
+
+* **<a id="DS_consistency">consistency</a>** ([ISO/IEC TR 24028:2020][24028], 3.9)
+  >degree of uniformity, standardization and freedom from contradiction among the documents or parts of a system (3.38) or component<br>
+  >[SOURCE:ISO/IEC 21827:2008, 3.14]
 
 * **<a id="DS_control">control</a>** ([ISO/IEC TR 24028:2020][24028], 3.10)
   >purposeful action on or in a process (3.29) to meet specified objectives<br>
