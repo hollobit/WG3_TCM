@@ -128,7 +128,7 @@ This is a matrix to provide relationship information of trustworthiness characte
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
-    <td align="center">D, c</td>
+    <td align="center"><a href="#D_bias">D</a>, c</td>
     <td align="center"></td>
     <td align="center">d, c</td>
     <td align="center">c</td>
@@ -1023,8 +1023,13 @@ If a WG3 deliverable imports a definition from an outside project, it’s includ
 
 ## Terms 
 
-* **<a id="D_bias">bias</a>** ([ISO/IEC IS 22989][22989], 3.30)
-  >
+* **<a id="D_bias">bias</a>** ([ISO/IEC IS 22989][22989], 3.4.4)
+  >systematic difference in treatment of certain objects, people, or groups in comparison to others<br>
+  >Note 1 to entry: Treatment is any kind of action, including perception, observation, representation, prediction (3.2.12), or decision.
+
+* **<a id="D_bias_24027">bias</a>** ([ISO/IEC TR 24027:2021][24027], 3.2.2) - no reference 
+  >systematic difference in treatment of certain objects, people, or groups in comparison to others<br>
+  >Note 1 to entry: Treatment is any kind of action, including perception, observation, representation, prediction or decision
 
 * **<a id="DS_bias">bias</a>** ([ISO/IEC TR 24028:2020][24028], 3.8)
   >favouritism towards some things, people or groups over others
