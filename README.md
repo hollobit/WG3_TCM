@@ -1,8 +1,9 @@
-# Trustworthiness characteristics matrix V5 (WIP)
+# AI/ML Trustworthiness characteristics matrix V5 (WIP)
 ## ISO/IEC JTC/1 SC42 WG3 
 
 This is a matrix to provide relationship information of trustworthiness characteristics
 
+## Matrix
 <table>
 <thead>
 <tr>
@@ -1001,7 +1002,7 @@ This is a matrix to provide relationship information of trustworthiness characte
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">[AAA][24027]</td>
   </tr>         
 </tbody>
 </table>
@@ -1014,21 +1015,42 @@ This is a matrix to provide relationship information of trustworthiness characte
 * Normativity : normative (N), informative (I)
 * Project : internation standard (IS), technical report (TR), technical specification (TS), approved work item (AWI)
 
-### Terms 
-
-* **<a id="D_explainability">Explainability</a>**  ([ISO/IEC TR 29119-11:2020](https://www.iso.org/obp/ui#iso:std:iso-iec:tr:29119:-11:ed-1:v1:en), 3.1.31)
-  >  <AI (3.1.13)> level of understanding how the AI-based system (3.1.9) came up with a given result
-
-* **<a id="DS_reliability">Reliability</a>** ([ISO/IEC TR 24028:2020](https://www.iso.org/obp/ui#iso:std:iso-iec:tr:24028:ed-1:v1:en), 3.30)
-  >  property of consistent intended behaviour and results <br>
-  > [SOURCE:ISO/IEC 27000:2018, 3.55]
-
-
 ### Note
 
 Maturity as expressed in the project stage number except for published standards, where ‘published’ is indicated via the publication date: https://www.iso.org/stage-codes.html
 
 If a WG3 deliverable imports a definition from an outside project, it’s included. Colour code WG3-owned projects.
+
+## Terms 
+
+* **<a id="D_explainability">Explainability</a>**  ([ISO/IEC TR 29119-11:2020][29119-11], 3.1.31)
+  >  <AI (3.1.13)> level of understanding how the AI-based system (3.1.9) came up with a given result
+
+* **<a id="DS_reliability">Reliability</a>** ([ISO/IEC TR 24028:2020][24028], 3.30)
+  >  property of consistent intended behaviour and results <br>
+  > [SOURCE:ISO/IEC 27000:2018, 3.55]
+
+
+[24027]: https://www.iso.org/obp/ui#iso:std:iso-iec:tr:24027:ed-1:v1:en 
+[29119-11]: https://www.iso.org/obp/ui#iso:std:iso-iec:tr:29119:-11:ed-1:v1:en 
+[24030]: https://www.iso.org/obp/ui#iso:std:iso-iec:tr:24030:ed-1:v1:en
+[24028]: https://www.iso.org/obp/ui#iso:std:iso-iec:tr:24028:ed-1:v1:en
+[24029-1]: https://www.iso.org/obp/ui#iso:std:iso-iec:tr:24029:-1:ed-1:v1:en
+[24029-2]: https://www.iso.org/standard/79804.html
+[24368]: https://www.iso.org/standard/78507.html
+[5469]: https://www.iso.org/standard/81283.html
+[38507]: https://www.iso.org/obp/ui#iso:std:iso-iec:38507:ed-1:v1:en
+[22989]: https://www.iso.org/standard/74296.html
+[23894]: https://www.iso.org/standard/77304.html
+[12791]: https://www.iso.org/standard/84110.html
+[8200]: https://www.iso.org/standard/83012.html
+[6254]: https://www.iso.org/standard/82148.html
+[4213.2]: https://www.iso.org/standard/79799.html
+[42001]: https://www.iso.org/standard/81230.html
+[25059]: https://www.iso.org/standard/80655.html
+[12792]: https://www.iso.org/standard/84111.html
+[5338]: https://www.iso.org/standard/81118.html
+[5471]: https://www.iso.org/standard/82570.html
 
 ## Contributing
 
