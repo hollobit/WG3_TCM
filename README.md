@@ -1168,6 +1168,34 @@ If a WG3 deliverable imports a definition from an outside project, it’s includ
 [5338]: https://www.iso.org/standard/81118.html
 [5471]: https://www.iso.org/standard/82570.html
 
+## References 
+* [ISO/IEC TR 24027:2021][24027] -  Information technology — Artificial intelligence (AI) — Bias in AI systems and AI aided decision making
+* [ISO/IEC TR 29119-11:2020][29119-11] - Software and systems engineering — Software testing — Part 11: Guidelines on the testing of AI-based systems
+* [ISO/IEC TR 24030:2021][24030] - Information technology — Artificial intelligence (AI) — Use cases
+* [ISO/IEC TR 24028:2020][24028] - Information technology — Artificial intelligence — Overview of trustworthiness in artificial intelligence
+* [ISO/IEC TR 24029-1:2021][24029-1] - Artificial Intelligence (AI) — Assessment of the robustness of neural networks — Part 1: Overview
+* [ISO/IEC DIS 24029-2][24029-2] - Artificial intelligence (AI) — Assessment of the robustness of neural networks — Part 2: Methodology for the use of formal methods
+* [ISO/IEC PRF TR 24368][24368] - Information technology — Artificial intelligence — Overview of ethical and societal concerns
+* [ISO/IEC DTR 5469][5469] - Artificial intelligence — Functional safety and AI systems
+* [ISO/IEC 38507:2022][38507] - Information technology — Governance of IT — Governance implications of the use of artificial intelligence by organizations
+* [ISO/IEC 22989][22989] - Information technology — Artificial intelligence — Artificial intelligence concepts and terminology
+* [ISO/IEC DIS 23894][23894] - Information technology — Artificial intelligence — Guidance on risk management
+* [ISO/IEC AWI TS 12791][12791] - Information technology — Artificial intelligence — Treatment of unwanted bias in classification and regression machine learning tasks
+* [ISO/IEC AWI TS 8200][8200] - Information technology — Artificial intelligence — Controllability of automated artificial intelligence systems
+* [ISO/IEC AWI TS 6254][6254] - Information technology — Artificial intelligence — Objectives and approaches for explainability of ML models and AI systems
+* [ISO/IEC DTS 4213.2][4213.2] - Information technology — Artificial Intelligence — Assessment of machine learning classification performance
+* [ISO/IEC CD 42001.2][42001] - Information Technology — Artificial intelligence — Management system
+* [ISO/IEC DIS 25059][25059] - Software engineering — Systems and software Quality Requirements and Evaluation (SQuaRE) — Quality model for AI systems
+* [ISO/IEC AWI 12792][12792] - Information technology — Artificial intelligence — Transparency taxonomy of AI systems
+* [ISO/IEC CD 5338][5338] - Information technology — Artificial intelligence — AI system life cycle processes
+* [ISO/IEC AWI TS 5471][5471] - Artificial intelligence — Quality evaluation guidelines for AI systems
+
+## Candidate references
+
+* [ISO/IEC AWI TS 12791](https://www.iso.org/standard/84110.html?browse=tc) - Informtion technology — Artificial intelligence — Treatment of unwanted bias in classification and regression machine learning tasks
+* [ISO/IEC AWI 12792](https://www.iso.org/standard/84111.html?browse=tc) - Information technology — Artificial intelligence — Transparency taxonomy of AI systems
+
+  
 ## Contributing
 
 Issues and Pull Requests are greatly appreciated. If you've never contributed to an open source project before I'm more than happy to walk you through how to create a pull request.
