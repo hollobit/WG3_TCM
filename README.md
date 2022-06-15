@@ -122,7 +122,7 @@ This is a matrix to provide relationship information of trustworthiness characte
     <td align="center">d, I, S, g</td>
     <td align="center"></td>
     <td align="center">d*, I, E</td>
-    <td align="center">g</td>
+    <td align="center">g, <a href="#DS_bias">D*</a></td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
@@ -170,7 +170,7 @@ This is a matrix to provide relationship information of trustworthiness characte
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
-    <td align="center">D*, g</td>
+    <td align="center"><a href="#DS_risk">D*</a>, g</td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
@@ -242,7 +242,7 @@ This is a matrix to provide relationship information of trustworthiness characte
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
-    <td align="center">D*</td>
+    <td align="center"><a href="#DS_accountability">D*</a></td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
@@ -266,7 +266,7 @@ This is a matrix to provide relationship information of trustworthiness characte
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
-    <td align="center">D*</td>
+    <td align="center"><a href="#DS_autonomy">D*</a></td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
@@ -290,7 +290,7 @@ This is a matrix to provide relationship information of trustworthiness characte
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
-    <td align="center">D*</td>
+    <td align="center"><a href="#DS_autonomous">D*</a></td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
@@ -314,7 +314,7 @@ This is a matrix to provide relationship information of trustworthiness characte
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
-    <td align="center"><bold>D*</bold></td>
+    <td align="center"><a href="#DS_consistency">D*</a></td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
@@ -338,7 +338,7 @@ This is a matrix to provide relationship information of trustworthiness characte
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
-    <td align="center">D*</td>
+    <td align="center"><a href="#DS_autonomous">D*</a></td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
@@ -362,7 +362,7 @@ This is a matrix to provide relationship information of trustworthiness characte
     <td align="center"></td>
     <td align="center">g</td>
     <td align="center"></td>
-    <td align="center">D*</td>
+    <td align="center"><a href="#DS_effectiveness">D*</a></td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
@@ -386,7 +386,7 @@ This is a matrix to provide relationship information of trustworthiness characte
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
-    <td align="center">D*</td>
+    <td align="center"><a href="#DS_efficiency">D*</a></td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
@@ -410,7 +410,7 @@ This is a matrix to provide relationship information of trustworthiness characte
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
-    <td align="center">D*, g</td>
+    <td align="center"><a href="#DS_harm">D*</a>, g</td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
@@ -434,7 +434,7 @@ This is a matrix to provide relationship information of trustworthiness characte
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
-    <td align="center">D*</td>
+    <td align="center"><a href="#DS_integrity">D*</a></td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
@@ -458,7 +458,7 @@ This is a matrix to provide relationship information of trustworthiness characte
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
-    <td align="center">D*</td>
+    <td align="center"><a href="#DS_intendeduse">D*</a></td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
@@ -482,7 +482,7 @@ This is a matrix to provide relationship information of trustworthiness characte
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
-    <td align="center">D*</td>
+    <td align="center"><a href="#DS_hazard">D*</a></td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
@@ -506,7 +506,7 @@ This is a matrix to provide relationship information of trustworthiness characte
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
-    <td align="center">D*</td>
+    <td align="center"><a href="#DS_privacy">D*</a></td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
@@ -530,7 +530,7 @@ This is a matrix to provide relationship information of trustworthiness characte
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
-    <td align="center">D*</td>
+    <td align="center"><a href="#DS_humanfactors">D*</a></td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
@@ -554,7 +554,7 @@ This is a matrix to provide relationship information of trustworthiness characte
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
-    <td align="center">D*</td>
+    <td align="center"><a href="#DS_functionalsafety">D*</a></td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
@@ -578,7 +578,7 @@ This is a matrix to provide relationship information of trustworthiness characte
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
-    <td align="center">D*</td>
+    <td align="center"><a href="#DS_security">D*</a></td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
@@ -602,7 +602,7 @@ This is a matrix to provide relationship information of trustworthiness characte
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
-    <td align="center">D*</td>
+    <td align="center"><a href="#DS_threat">D*</a></td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
@@ -626,7 +626,7 @@ This is a matrix to provide relationship information of trustworthiness characte
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
-    <td align="center">D*</td>
+    <td align="center"><a href="#DS_safety">D*</a></td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
@@ -650,7 +650,7 @@ This is a matrix to provide relationship information of trustworthiness characte
     <td align="center"></td>
     <td align="center">g</td>
     <td align="center"></td>
-    <td align="center"></td>
+    <td align="center"><a href="#DS_trustworthiness">D*</a></td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
@@ -674,7 +674,7 @@ This is a matrix to provide relationship information of trustworthiness characte
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
-    <td align="center">D*</td>
+    <td align="center"><a href="#DS_validation">D*</a></td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
@@ -698,7 +698,7 @@ This is a matrix to provide relationship information of trustworthiness characte
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
-    <td align="center">D*</td>
+    <td align="center"><a href="#DS_value">D*</a></td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
@@ -722,7 +722,7 @@ This is a matrix to provide relationship information of trustworthiness characte
     <td align="center"></td>
     <td align="center">g</td>
     <td align="center"></td>
-    <td align="center">D*</td>
+    <td align="center"><a href="#DS_verification">D*</a></td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
@@ -746,7 +746,7 @@ This is a matrix to provide relationship information of trustworthiness characte
     <td align="center"></td>
     <td align="center">g</td>
     <td align="center"></td>
-    <td align="center">D*</td>
+    <td align="center"><a href="#DS_trust">D*</a></td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
@@ -866,7 +866,7 @@ This is a matrix to provide relationship information of trustworthiness characte
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
-    <td align="center">D*</td>
+    <td align="center"><a href="#DS_vulnerability">D*</a></td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
@@ -1030,7 +1030,7 @@ If a WG3 deliverable imports a definition from an outside project, it’s includ
   >favouritism towards some things, people or groups over others
 
 * **<a id="D_explainability">explainability</a>**  ([ISO/IEC TR 29119-11:2020][29119-11], 3.1.31)
-  >  <AI (3.1.13)> level of understanding how the AI-based system (3.1.9) came up with a given result
+  ><AI (3.1.13)> level of understanding how the AI-based system (3.1.9) came up with a given result
 
 * **<a id="DS_reliability">reliability</a>** ([ISO/IEC TR 24028:2020][24028], 3.30)
   >  property of consistent intended behaviour and results <br>
