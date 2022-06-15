@@ -1002,7 +1002,7 @@ This is a matrix to provide relationship information of trustworthiness characte
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
-    <td align="center">[AAA][24027]</td>
+    <td align="center"></td>
   </tr>         
 </tbody>
 </table>
@@ -1026,6 +1026,9 @@ If a WG3 deliverable imports a definition from an outside project, it’s includ
 * **<a id="D_bias">bias</a>** ([ISO/IEC IS 22989][22989], 3.30)
   >
 
+* **<a id="DS_bias">bias</a>** ([ISO/IEC TR 24028:2020][24028], 3.8)
+  >favouritism towards some things, people or groups over others
+
 * **<a id="D_explainability">explainability</a>**  ([ISO/IEC TR 29119-11:2020][29119-11], 3.1.31)
   >  <AI (3.1.13)> level of understanding how the AI-based system (3.1.9) came up with a given result
 
@@ -1033,60 +1036,107 @@ If a WG3 deliverable imports a definition from an outside project, it’s includ
   >  property of consistent intended behaviour and results <br>
   > [SOURCE:ISO/IEC 27000:2018, 3.55]
 
-* **<a id="DS_risk">risk</a>** ([ISO/IEC TR 24028:2020][24028], 3.30)
-  >
+* **<a id="DS_risk">risk</a>** ([ISO/IEC TR 24028:2020][24028], 3.3)
+  >effect of uncertainty on objectives <br>
+  >Note 1 to entry: An effect is a deviation from the expected. It can be positive, negative or both and can address, create or result in opportunities and threats (3.39).<br>
+  >Note 2 to entry: Objectives can have different aspects and categories and can be applied at different levels.<br>
+  >Note 3 to entry: Risk is usually expressed in terms of risk sources, potential events, their consequences and their likelihood.<br>
+  >[SOURCE:ISO 31000:2018, 3.1]<br>
 
-* **<a id="DS_accountability">accountability</a>** ([ISO/IEC TR 24028:2020][24028], 3.30)
-  >
+* **<a id="DS_accountability">accountability</a>** ([ISO/IEC TR 24028:2020][24028], 3.1)
+  >property that ensures that the actions of an entity (3.16) may be traced uniquely to that entity <br>
+  >[SOURCE:ISO/IEC 2382:2015, 2126250, modified — The Notes to entry have been removed.]
 
-* **<a id="DS_autonomy">autonomy</a>** ([ISO/IEC TR 24028:2020][24028], 3.30)
-  >
+* **<a id="DS_autonomy">autonomy</a>** ([ISO/IEC TR 24028:2020][24028], 3.7)
+  >characteristic of a system (3.38) governed by its own rules as the result of self-learning <br>
+  >Note 1 to entry: Such systems are not subject to external control (3.10) or oversight.
 
-* **<a id="DS_autonomous">autonomous</a>** ([ISO/IEC TR 24028:2020][24028], 3.30)
-  >
+* **<a id="DS_autonomous">autonomous</a>** ([ISO/IEC TR 24028:2020][24028], 3.7)
+  >characteristic of a system (3.38) governed by its own rules as the result of self-learning <br>
+  >Note 1 to entry: Such systems are not subject to external control (3.10) or oversight.
 
-* **<a id="DS_control">control</a>** ([ISO/IEC TR 24028:2020][24028], 3.30)
-  >
+* **<a id="DS_control">control</a>** ([ISO/IEC TR 24028:2020][24028], 3.10)
+  >purposeful action on or in a process (3.29) to meet specified objectives<br>
+  >[SOURCE:IEC 61800-7-1:2015, 3.2.6]
 
-* **<a id="DS_effectiveness">effectiveness</a>** ([ISO/IEC TR 24028:2020][24028], 3.30)
-  >
+* **<a id="DS_effectiveness">effectiveness</a>** ([ISO/IEC TR 24028:2020][24028], 3.14)
+  >extent to which planned activities are realized and planned results achieved<br>
+  >[SOURCE:ISO 9000:2015, 3.7.11, modified — Note 1 to entry has been removed.]
 
-* **<a id="DS_efficiency">efficiency</a>** ([ISO/IEC TR 24028:2020][24028], 3.30)
-  >
+* **<a id="DS_efficiency">efficiency</a>** ([ISO/IEC TR 24028:2020][24028], 3.15)
+  >relationship between the results achieved and the resources used<br>
+  >[SOURCE:ISO 9000:2015, 3.7.10]
 
-* **<a id="DS_harm">harm</a>** ([ISO/IEC TR 24028:2020][24028], 3.30)
-  >
+* **<a id="DS_harm">harm</a>** ([ISO/IEC TR 24028:2020][24028], 3.17)
+  >injury or damage to the health of people or damage to property or the environment<br>
+  >[SOURCE:ISO/IEC Guide 51:2014, 3.1]
 
-* **<a id="DS_integrity">integrity</a>** ([ISO/IEC TR 24028:2020][24028], 3.30)
-  >
-* **<a id="DS_intendeduse">intended use</a>** ([ISO/IEC TR 24028:2020][24028], 3.30)
-  >
-* **<a id="DS_hazard">hazard</a>** ([ISO/IEC TR 24028:2020][24028], 3.30)
-  >
-* **<a id="DS_privacy">privacy</a>** ([ISO/IEC TR 24028:2020][24028], 3.30)
-  >
-* **<a id="DS_humanfactors">human factors</a>** ([ISO/IEC TR 24028:2020][24028], 3.30)
-  >
+* **<a id="DS_integrity">integrity</a>** ([ISO/IEC TR 24028:2020][24028], 3.19)
+  >property of protecting the accuracy and completeness of assets (3.5)<br>
+  >[SOURCE:ISO/IEC 27000:2018, 3.36, modified — In the definition, "protecting the" has been added before "accuracy" and "of assets" has been added after "completeness".]
+
+* **<a id="DS_intendeduse">intended use</a>** ([ISO/IEC TR 24028:2020][24028], 3.22)
+  >use in accordance with information (3.20) provided with a product or system (3.38) or, in the absence of such information, by generally understood patterns (3.26) of usage.<br>
+  >[SOURCE:ISO/IEC Guide 51:2014, 3.6]
+
+* **<a id="DS_hazard">hazard</a>** ([ISO/IEC TR 24028:2020][24028], 3.18)
+  >potential source of harm (3.17)<br>
+  >[SOURCE:ISO/IEC Guide 51:2014, 3.2]
+
+* **<a id="DS_privacy">privacy</a>** ([ISO/IEC TR 24028:2020][24028], 3.28)
+  >freedom from intrusion into the private life or affairs of an individual when that intrusion results from undue or illegal gathering and use of data (3.11) about that individual<br>
+  >[SOURCE:ISO/IEC 2382:2015, 2126263, modified — Notes 1 and 2 to entry have been removed.]
+
+* **<a id="DS_humanfactors">human factors</a>** ([ISO/IEC TR 24028:2020][24028], 3.19)
+  >environmental, organizational and job factors, in conjunction with cognitive human characteristics, which influence the behaviour of persons or organizations
+
 * **<a id="D_functionalsafety">functional safety</a>** ([ISO/IEC AWI TR 5469][5469], 3.30)
   >
-* **<a id="DS_functionalsafety">functional safety</a>** ([ISO/IEC TR 24028:2020][24028], 3.30)
-  >
-* **<a id="DS_security">security</a>** ([ISO/IEC TR 24028:2020][24028], 3.30)
-  >
-* **<a id="DS_threat">threat</a>** ([ISO/IEC TR 24028:2020][24028], 3.30)
-  >
-* **<a id="DS_safety">safety</a>** ([ISO/IEC TR 24028:2020][24028], 3.30)
-  >
-* **<a id="DS_validation">validation</a>** ([ISO/IEC TR 24028:2020][24028], 3.30)
-  >
-* **<a id="DS_value">value</a>** ([ISO/IEC TR 24028:2020][24028], 3.30)
-  >
-* **<a id="DS_verification">verification</a>** ([ISO/IEC TR 24028:2020][24028], 3.30)
-  >
-* **<a id="DS_trust">trust</a>** ([ISO/IEC TR 24028:2020][24028], 3.30)
-  >
-* **<a id="DS_vulnerability">vulnerability</a>** ([ISO/IEC TR 24028:2020][24028], 3.30)
-  >
+* **<a id="DS_functionalsafety">functional safety</a>** ([ISO/IEC TR 24028:2020][24028])
+  >NONE
+
+* **<a id="DS_security">security</a>** ([ISO/IEC TR 24028:2020][24028], 3.35)
+  >degree to which a product or system (3.38) protects information (3.20) and data (3.11) so that persons or other products or systems have the degree of data access appropriate to their types and levels of authorization<br>
+  >[SOURCE:ISO/IEC 25010:2011, 4.2.6]
+
+* **<a id="DS_threat">threat</a>** ([ISO/IEC TR 24028:2020][24028], 3.39)
+  >potential cause of an unwanted incident, which may result in harm (3.17) to systems (3.38), organizations or individuals
+
+* **<a id="DS_safety">safety</a>** ([ISO/IEC TR 24028:2020][24028], 3.34)
+  >freedom from risk (3.31) which is not tolerable<br>
+  >[SOURCE:ISO/IEC Guide 51:2014, 3.14]
+
+* **<a id="DS_validation">validation</a>** ([ISO/IEC TR 24028:2020][24028], 3.44)
+  >confirmation, through the provision of objective evidence, that the requirements for a specific intended use (3.22) or application have been fulfilled<br>
+  >Note 1 to entry: The right system (3.38) was built.<br>
+  >[SOURCE:ISO/IEC TR 29110-1:2016, 3.73, modified — Only the last sentence of Note 1 to entry has been retained and Note 2 to entry has been removed.]
+
+* **<a id="DS_value">value</a>** ([ISO/IEC TR 24028:2020][24028], 3.45)
+  ><data> unit of data (3.11)<br>
+  >[SOURCE:ISO/IEC/IEEE 15939:2017, 3.41]
+
+* **<a id="DS_value">value</a>** ([ISO/IEC TR 24028:2020][24028], 3.46)
+  ><social> belief(s) an organization adheres to and the standards that it seeks to observe<br>
+  >[SOURCE:ISO 10303-11:2004, 3.3.22]
+
+* **<a id="DS_verification">verification</a>** ([ISO/IEC TR 24028:2020][24028], 3.47)
+  >confirmation, through the provision of objective evidence, that specified requirements have been fulfilled<br>
+  >Note 1 to entry: The system (3.38) was built right.<br>
+  >[SOURCE:ISO/IEC TR 29110-1:2016, 3.74, modified — Only the last sentence of Note 1 to entry has been retained.]
+  
+* **<a id="DS_trust">trust</a>** ([ISO/IEC TR 24028:2020][24028], 3.41)
+  >degree to which a user (3.43) or other stakeholder (3.37) has confidence that a product or system (3.38) will behave as intended<br>
+  >[SOURCE:ISO/IEC 25010:2011, 4.1.3.2]
+
+* **<a id="DS_vulnerability">vulnerability</a>** ([ISO/IEC TR 24028:2020][24028], 3.48)
+  >weakness of an asset (3.5) or control (3.10) that can be exploited by one or more threats (3.38)<br>
+  >[SOURCE:ISO/IEC 27000:2018, 3.77]
+
+* **<a id="DS_trustworthiness">trustworthiness</a>** ([ISO/IEC TR 24028:2020][24028], 3.42)
+  >ability to meet stakeholders' (3.37) expectations in a verifiable way<br>
+  >Note 1 to entry: Depending on the context or sector and also on the specific product or service, data (3.11) and technology used, different characteristics apply and need verification (3.47) to ensure stakeholders expectations are met.<br>
+  >Note 2 to entry: Characteristics of trustworthiness include, for instance, reliability (3.30), availability, resilience, security (3.35), privacy (3.28), safety (3.34), accountability (3.1), transparency, integrity (3.21), authenticity, quality, usability.<br>
+  >Note 3 to entry: Trustworthiness is an attribute (3.6) that can be applied to services, products, technology, data and information (3.20) as well as, in the context of governance, to organizations.<br>
 
 [24027]: https://www.iso.org/obp/ui#iso:std:iso-iec:tr:24027:ed-1:v1:en 
 [29119-11]: https://www.iso.org/obp/ui#iso:std:iso-iec:tr:29119:-11:ed-1:v1:en 
