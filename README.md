@@ -1023,13 +1023,70 @@ If a WG3 deliverable imports a definition from an outside project, it’s includ
 
 ## Terms 
 
-* **<a id="D_explainability">Explainability</a>**  ([ISO/IEC TR 29119-11:2020][29119-11], 3.1.31)
+* **<a id="D_bias">bias</a>** ([ISO/IEC IS 22989][22989], 3.30)
+  >
+
+* **<a id="D_explainability">explainability</a>**  ([ISO/IEC TR 29119-11:2020][29119-11], 3.1.31)
   >  <AI (3.1.13)> level of understanding how the AI-based system (3.1.9) came up with a given result
 
-* **<a id="DS_reliability">Reliability</a>** ([ISO/IEC TR 24028:2020][24028], 3.30)
+* **<a id="DS_reliability">reliability</a>** ([ISO/IEC TR 24028:2020][24028], 3.30)
   >  property of consistent intended behaviour and results <br>
   > [SOURCE:ISO/IEC 27000:2018, 3.55]
 
+* **<a id="DS_risk">risk</a>** ([ISO/IEC TR 24028:2020][24028], 3.30)
+  >
+
+* **<a id="DS_accountability">accountability</a>** ([ISO/IEC TR 24028:2020][24028], 3.30)
+  >
+
+* **<a id="DS_autonomy">autonomy</a>** ([ISO/IEC TR 24028:2020][24028], 3.30)
+  >
+
+* **<a id="DS_autonomous">autonomous</a>** ([ISO/IEC TR 24028:2020][24028], 3.30)
+  >
+
+* **<a id="DS_control">control</a>** ([ISO/IEC TR 24028:2020][24028], 3.30)
+  >
+
+* **<a id="DS_effectiveness">effectiveness</a>** ([ISO/IEC TR 24028:2020][24028], 3.30)
+  >
+
+* **<a id="DS_efficiency">efficiency</a>** ([ISO/IEC TR 24028:2020][24028], 3.30)
+  >
+
+* **<a id="DS_harm">harm</a>** ([ISO/IEC TR 24028:2020][24028], 3.30)
+  >
+
+* **<a id="DS_integrity">integrity</a>** ([ISO/IEC TR 24028:2020][24028], 3.30)
+  >
+* **<a id="DS_intendeduse">intended use</a>** ([ISO/IEC TR 24028:2020][24028], 3.30)
+  >
+* **<a id="DS_hazard">hazard</a>** ([ISO/IEC TR 24028:2020][24028], 3.30)
+  >
+* **<a id="DS_privacy">privacy</a>** ([ISO/IEC TR 24028:2020][24028], 3.30)
+  >
+* **<a id="DS_humanfactors">human factors</a>** ([ISO/IEC TR 24028:2020][24028], 3.30)
+  >
+* **<a id="D_functionalsafety">functional safety</a>** ([ISO/IEC AWI TR 5469][5469], 3.30)
+  >
+* **<a id="DS_functionalsafety">functional safety</a>** ([ISO/IEC TR 24028:2020][24028], 3.30)
+  >
+* **<a id="DS_security">security</a>** ([ISO/IEC TR 24028:2020][24028], 3.30)
+  >
+* **<a id="DS_threat">threat</a>** ([ISO/IEC TR 24028:2020][24028], 3.30)
+  >
+* **<a id="DS_safety">safety</a>** ([ISO/IEC TR 24028:2020][24028], 3.30)
+  >
+* **<a id="DS_validation">validation</a>** ([ISO/IEC TR 24028:2020][24028], 3.30)
+  >
+* **<a id="DS_value">value</a>** ([ISO/IEC TR 24028:2020][24028], 3.30)
+  >
+* **<a id="DS_verification">verification</a>** ([ISO/IEC TR 24028:2020][24028], 3.30)
+  >
+* **<a id="DS_trust">trust</a>** ([ISO/IEC TR 24028:2020][24028], 3.30)
+  >
+* **<a id="DS_vulnerability">vulnerability</a>** ([ISO/IEC TR 24028:2020][24028], 3.30)
+  >
 
 [24027]: https://www.iso.org/obp/ui#iso:std:iso-iec:tr:24027:ed-1:v1:en 
 [29119-11]: https://www.iso.org/obp/ui#iso:std:iso-iec:tr:29119:-11:ed-1:v1:en 
