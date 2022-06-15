@@ -87,6 +87,7 @@ This is a matrix to provide relationship information of trustworthiness characte
   <th align="center">20.00</th>
   <th align="center">35.20</th>
   <th align="center">20.00</th>
+  </tr>
 </thead>
   
 <tbody>
@@ -140,11 +141,11 @@ This is a matrix to provide relationship information of trustworthiness characte
   </tr>
   <tr>
     <td></td>
-    <td>reliablity</td>
+    <td>reliability</td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
-    <td align="center">D*, g</td>
+    <td align="center"><a href="#DS_reliability">D*</a>, g</td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
@@ -190,7 +191,7 @@ This is a matrix to provide relationship information of trustworthiness characte
     <td></td>
     <td>explainability</td>
     <td align="center"></td>
-    <td align="center">D, I</td>
+    <td align="center"><a href="#D_explainability">D</a>, I</td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
@@ -1012,6 +1013,16 @@ This is a matrix to provide relationship information of trustworthiness characte
 * Guidance : guidance (g)
 * Normativity : normative (N), informative (I)
 * Project : internation standard (IS), technical report (TR), technical specification (TS), approved work item (AWI)
+
+### Terms 
+
+* **<a id="D_explainability">Explainability</a>**  ([ISO/IEC TR 29119-11:2020](https://www.iso.org/obp/ui#iso:std:iso-iec:tr:29119:-11:ed-1:v1:en), 3.1.31)
+  >  <AI (3.1.13)> level of understanding how the AI-based system (3.1.9) came up with a given result
+
+* **<a id="DS_reliability">Reliability</a>** ([ISO/IEC TR 24028:2020](https://www.iso.org/obp/ui#iso:std:iso-iec:tr:24028:ed-1:v1:en), 3.30)
+  >  property of consistent intended behaviour and results <br>
+  > [SOURCE:ISO/IEC 27000:2018, 3.55]
+
 
 ### Note
 
