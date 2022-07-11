@@ -13,7 +13,11 @@ TCM classifies the characteristics of trustworthiness in the specifications of S
 * [TCM for print style](http://hollobit.github.io/WG3_TCM/index-nostyle.html)
 
 <img src="TCM-20220711.png">
-          
+
+## Acknowledgement 
+
+The initial idea of this matrix was created by the experts of Roadmapping AHG  - Harm Ellens and David Wotton. 
+
 ## Contributing
 
 Issues and Pull Requests are greatly appreciated. If you've never contributed to an open source project before I'm more than happy to walk you through how to create a pull request.
