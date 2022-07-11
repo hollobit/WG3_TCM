@@ -12,6 +12,8 @@ TCM classifies the characteristics of trustworthiness in the specifications of S
 * [TCM with menu style](http://hollobit.github.io/WG3_TCM/index.html)
 * [TCM for print style](http://hollobit.github.io/WG3_TCM/index-nostyle.html)
 
+<img src="TCM-20220711.png">
+          
 ## Contributing
 
 Issues and Pull Requests are greatly appreciated. If you've never contributed to an open source project before I'm more than happy to walk you through how to create a pull request.
