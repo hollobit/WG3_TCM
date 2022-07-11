@@ -7,7 +7,7 @@ This page was created for the purpose of collaboration in the roadmapping AHG of
 
 The Trustworthiness Characteristics Matrix (TCM) of this document was created with the purpose of arranging the relationship between trustworthiness-related characteristics in a situation where various AI/ML-related standards are being created within SC42.
 
-TCM classifies the characteristics of trustworthiness in the specifications of SC42, and organizes the statements related to the characteristic. This aims to clean up consistent what relationship is in there between the trustworthiness charateristics and standard.
+TCM classifies the characteristics of trustworthiness in the specifications of SC42, and organizes the statements related to the characteristic. This matrix aims to clean up consistent what relationship is in there between the trustworthiness charateristics and standard.
 
 * [TCM with menu style](http://hollobit.github.io/WG3_TCM/index.html)
 * [TCM for print style](http://hollobit.github.io/WG3_TCM/index-nostyle.html)
