@@ -20,4 +20,4 @@ You can start by [opening an issue](https://github.com/hollobit/WG3_TCM/issues/n
 
 ## License
 
-This software is licensed under the [MIT license](https://opensource.org/licenses/mit-license.php) © Jonghong Jeon
+This document is licensed under the [MIT license](https://opensource.org/licenses/mit-license.php) © Jonghong Jeon
