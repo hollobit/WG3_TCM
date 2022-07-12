@@ -9,8 +9,8 @@ The Trustworthiness Characteristics Matrix (TCM) of this document was created wi
 
 TCM classifies the characteristics of trustworthiness in the specifications of SC42, and organizes the statements related to the characteristic. This matrix aims to clean up consistent what relationship is in there between the trustworthiness charateristics and standard.
 
-* [TCM with menu style](http://hollobit.github.io/WG3_TCM/index.html)
-* [TCM for print style](http://hollobit.github.io/WG3_TCM/index-nostyle.html)
+* [TCM for print friendly simple HTML](http://hollobit.github.io/WG3_TCM/index-nostyle.html) - baseline
+* [TCM with menu style](http://hollobit.github.io/WG3_TCM/index.html) (optional decorated version) 
 
 <img src="TCM-20220711.png">
 
