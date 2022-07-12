@@ -90,7 +90,7 @@
           <th align="center"><a href="https://www.iso.org/standard/78507.html">PRF TR 24368</a></th>
           <th align="center"><a href="https://www.iso.org/standard/81283.html">AWI TR 5469</a></th>
           <th align="center"><a href="https://www.iso.org/obp/ui#iso:std:iso-iec:38507:ed-1:v1:en">IS 38507:2022</a></th>
-          <th align="center"><a href="https://www.iso.org/standard/74296.html">IS 22989</a></th>
+          <th align="center"><a href="https://www.iso.org/obp/ui/#!iso:std:74296:en">IS 22989</a></th>
           <th align="center"><a href="https://www.iso.org/standard/77304.html">DIS 23894</a></th>
           <th align="center"><a href="https://www.iso.org/standard/84110.html">AWI TS 12791</a></th>
           <th align="center"><a href="https://www.iso.org/standard/83012.html">AWI TS 8200</a></th>
@@ -235,7 +235,7 @@
             <td align="center"></td>
             <td align="center"></td>
             <td align="center"></td>
-            <td align="center">D, N, g</td>
+            <td align="center"><a href="#D_risk">D</a>, N, g</td>
             <td align="center"></td>
             <td align="center"></td>
             <td align="center"></td>
@@ -617,7 +617,7 @@
             <td align="center"></td>
             <td align="center"></td>
             <td align="center"></td>
-            <td align="center">D, g, c</td>
+            <td align="center"><a href="D_functionalsafety">D</a>, g, c</td>
             <td align="center"></td>
             <td align="center"></td>
             <td align="center"></td>
@@ -862,7 +862,7 @@
             <td align="center"></td>
             <td align="center"></td>
             <td align="center"></td>
-            <td align="center">D, g</td>
+            <td align="center"><a href="#D_controllability">D</a>, g</td>
             <td align="center"></td>
             <td align="center"></td>
             <td align="center"></td>
@@ -1108,6 +1108,14 @@
           property of consistent intended behaviour and results <br>
           [SOURCE:ISO/IEC 27000:2018, 3.55] </dd>
 
+        <dt><b><a id="D_risk">risk</a></b> (<a href="https://www.iso.org/obp/ui/#!iso:std:74296:en">[ISO/IEC 22989:2022]</a>, 3.4.10)
+        <dd>
+          effect of uncertainty on objectives <br>
+          Note 1 to entry: An effect is a deviation from the expected. It can be positive, negative or both and can address, create or result in opportunities and threats (3.39).<br>
+          Note 2 to entry: Objectives can have different aspects and categories and can be applied at different levels.<br>
+          Note 3 to entry: Risk is usually expressed in terms of risk sources, potential events, their consequences and their likelihood.<br>
+          [SOURCE:ISO 31000:2018, 3.1]<br></dd>
+          
         <dt><b><a id="DS_risk">risk</a></b> (<a href="https://www.iso.org/obp/ui#iso:std:iso-iec:tr:24028:ed-1:v1:en">[ISO/IEC TR 24028:2020]</a>, 3.3)
         <dd>
           effect of uncertainty on objectives <br>
@@ -1180,8 +1188,10 @@
           <dd>
           environmental, organizational and job factors, in conjunction with cognitive human characteristics, which influence the behaviour of persons or organizations</dd>
 
-        <dt><b><a id="D_functionalsafety">functional safety</a></b> (<a href="https://www.iso.org/standard/81283.html">[ISO/IEC AWI TR 5469]</a>, 3.30)
-          <dd> </dd>
+        <dt><b><a id="D_functionalsafety">functional safety</a></b> (<a href="https://www.iso.org/standard/81283.html">[ISO/IEC AWI TR 5469]</a>, 3.2)
+          <dd>
+          part of the overall safety (3.1) relating to the EUC (Equipment Under Control) and the EUC control system that depends on the correct functioning of the E/E/PE (Electrical/Electronic/Programmable Electronic) safety-related systems and other risk reduction measures<br>
+          [SOURCE: IEC 61508-4, ed. 2.0 (2010), 3.1.12] </dd>
 
         <dt><b><a id="DS_functionalsafety">functional safety</a></b> (<a href="https://www.iso.org/obp/ui#iso:std:iso-iec:tr:24028:ed-1:v1:en">[ISO/IEC TR 24028:2020]</a>)
           <dd>NONE</dd>
@@ -1227,6 +1237,16 @@
           degree to which a user (3.43) or other stakeholder (3.37) has confidence that a product or system (3.38) will behave as intended<br>
           [SOURCE:ISO/IEC 25010:2011, 4.1.3.2]</dd>
 
+        <dt><b><a id="D_controllability">controllability</a></b> (<a href="https://www.iso.org/obp/ui/#!iso:std:74296:en">[ISO/IEC 22989:2022]</a>, 3.1.13)
+          <dd>
+          property of an AI system (3.1.4) that a human or other external agent (3.1.1) can intervene in the system’s functioning <br>
+          Note 1 to entry: Such a system is heteronomous (3.1.9).</dd>
+
+        <dt><b><a id="DS_controllability">controllability</a></b> (<a href="https://www.iso.org/standard/83012.html">[ISO/IEC AWI TS 8200]</a>, 3.2.3)
+          <dd>
+          property of an AI system (3.1.1) that allows a human or another external agent to intervene in the system’s functioning <br>
+          [SOURCE: ISO/IEC DIS 22989, 3.5.6] </dd>
+          
         <dt><b><a id="DS_vulnerability">vulnerability</a></b> (<a href="https://www.iso.org/obp/ui#iso:std:iso-iec:tr:24028:ed-1:v1:en">[ISO/IEC TR 24028:2020]</a>, 3.48)
           <dd>
           weakness of an asset (3.5) or control (3.10) that can be exploited by one or more threats (3.38)<br>
@@ -1251,7 +1271,7 @@
         <li> <a href="https://www.iso.org/standard/78507.html">[ISO/IEC PRF TR 24368]</a> - Information technology — Artificial intelligence — Overview of ethical and societal concerns
         <li> <a href="https://www.iso.org/standard/81283.html">[ISO/IEC DTR 5469]</a> - Artificial intelligence — Functional safety and AI systems
         <li> <a href="https://www.iso.org/obp/ui#iso:std:iso-iec:38507:ed-1:v1:en">[ISO/IEC 38507:2022]</a> - Information technology — Governance of IT — Governance implications of the use of artificial intelligence by organizations
-        <li> <a href="https://www.iso.org/standard/74296.html">[ISO/IEC 22989]</a> - Information technology — Artificial intelligence — Artificial intelligence concepts and terminology
+        <li> <a href="https://www.iso.org/obp/ui/#!iso:std:74296:en">[ISO/IEC 22989]</a> - Information technology — Artificial intelligence — Artificial intelligence concepts and terminology
         <li> <a href="https://www.iso.org/standard/77304.html">[ISO/IEC DIS 23894]</a> - Information technology — Artificial intelligence — Guidance on risk management
         <li> <a href="https://www.iso.org/standard/84110.html">[ISO/IEC AWI TS 12791]</a> - Information technology — Artificial intelligence — Treatment of unwanted bias in classification and regression machine learning tasks
         <li> <a href="https://www.iso.org/standard/83012.html">[ISO/IEC AWI TS 8200]</a> - Information technology — Artificial intelligence — Controllability of automated artificial intelligence systems
