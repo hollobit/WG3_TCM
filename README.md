@@ -12,7 +12,7 @@ TCM classifies the characteristics of trustworthiness in the specifications of S
 * [TCM for print friendly simple HTML](http://hollobit.github.io/WG3_TCM/index-nostyle.html) - baseline
 * [TCM with menu style](http://hollobit.github.io/WG3_TCM/index.html) (optional, decorated version) 
 
-<a href="(http://hollobit.github.io/WG3_TCM/index-nostyle.html" border="0"><img src="TCM-20220713.png"></a>
+<img src="TCM-20220713.png">
 
 ## Acknowledgement 
 
