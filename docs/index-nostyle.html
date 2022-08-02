@@ -691,7 +691,7 @@
             <td align="center"></td>
             <td align="center"></td>
             <td align="center"></td>
-            <td align="center"></td>
+            <td align="center"><a href="#D_oversight">D</a></td>
             <td align="center">g</td>
             <td align="center"></td>
             <td align="center"></td>
@@ -754,6 +754,30 @@
           </tr>
           <tr>
             <td></td>
+            <td>quality</td>
+            <td align="center"></td>
+            <td align="center"></td>
+            <td align="center"><a href="#DI_quality">d</a></td>
+            <td align="center"></td>
+            <td align="center"></td>
+            <td align="center"></td>
+            <td align="center"></td>
+            <td align="center"></td>
+            <td align="center"></td>
+            <td align="center"></td>
+            <td align="center"></td>
+            <td align="center"></td>
+            <td align="center"></td>
+            <td align="center"></td>
+            <td align="center"></td>
+            <td align="center"></td>
+            <td align="center"></td>
+            <td align="center"></td>
+            <td align="center"></td>
+            <td align="center"></td>
+          </tr>
+          <tr>
+            <td></td>
             <td>reliability</td>
             <td align="center"></td>
             <td align="center"></td>
@@ -811,7 +835,7 @@
             <td align="center"></td>
             <td align="center"></td>
             <td align="center"></td>
-            <td align="center"></td>
+            <td align="center"><a href="#D_risk">D</a></td>
             <td align="center"><a href="#D_risk">D</a>, N, g</td>
             <td align="center"></td>
             <td align="center"></td>
@@ -831,7 +855,7 @@
             <td align="center">g?</td>
             <td align="center"></td>
             <td align="center"></td>
-            <td align="center"></td>
+            <td align="center"><a href="#D_robustness">D</a></td>
             <td align="center"></td>
             <td align="center"></td>
             <td align="center"></td>
@@ -903,7 +927,7 @@
             <td align="center">g</td>
             <td align="center"></td>
             <td align="center"></td>
-            <td align="center"></td>
+            <td align="center"><a href="#DI_testing">d</a></td>
             <td align="center"></td>
             <td align="center"></td>
             <td align="center"></td>
@@ -1047,7 +1071,7 @@
             <td align="center"></td>
             <td align="center"></td>
             <td align="center"><a href="#DS_validation">D*</a></td>
-            <td align="center"></td>
+            <td align="center"><a href="#DI_validation">d</a></td>
             <td align="center"></td>
             <td align="center"></td>
             <td align="center"></td>
@@ -1095,7 +1119,7 @@
             <td align="center">g?</td>
             <td align="center"></td>
             <td align="center"><a href="#DS_verification">D*</a></td>
-            <td align="center"></td>
+            <td align="center"><a href="#DI_verification">d</a></td>
             <td align="center"></td>
             <td align="center"></td>
             <td align="center"></td>
@@ -1287,6 +1311,11 @@
         <dd>
           &lt;AI (3.1.13)&gt; level of understanding how the underlying (AI) technology works</dd>
 
+        <dt><b><a id="D_oversight">oversight</a></b>  (<a href="https://www.iso.org/obp/ui#iso:std:iso-iec:38507:ed-1:v1:en">[ISO/IEC 38507:2022]</a>, 3.2.1)</dt>
+        <dd>
+          monitoring of the implementation of organizational and governance policies and management of associated tasks, services and products set by the organization, in order to adapt to changes in internal or external circumstances<br>
+          Note 1 to entry: Effective oversight needs general understanding of a situation. Oversight is one of the ‘principles of governance’ covered in depth in ISO 37000:2021, 6.4.</dd>
+
         <dt><b><a id="D_predictability">predictability</a></b> (<a href="https://www.iso.org/obp/ui/#!iso:std:74296:en">[ISO/IEC 22989:2022]</a>, 3.5.8)
         <dd>
           property of an AI system (3.1.4) that enables reliable assumptions by stakeholders (3.5.13) about the output<br>
@@ -1296,6 +1325,11 @@
           <dd>
           freedom from intrusion into the private life or affairs of an individual when that intrusion results from undue or illegal gathering and use of data (3.11) about that individual<br>
           [SOURCE:ISO/IEC 2382:2015, 2126263, modified — Notes 1 and 2 to entry have been removed.]</dd>
+
+        <dt><b><a id="DI_quality">quality</a></b> (<a href="https://www.iso.org/obp/ui#iso:std:iso-iec:tr:24030:ed-1:v1:en">[ISO/IEC 24030:2021]</a>, 3.3)
+        <dd>
+          conformance to specified requirements<br>
+          [SOURCE: ISO 13628-2:2006, 3.33]</dd>
 
         <dt><b><a id="D_reliability">reliability</a></b> (<a href="https://www.iso.org/obp/ui/#!iso:std:74296:en">[ISO/IEC 22989:2022]</a>, 3.5.9)
         <dd>
@@ -1311,7 +1345,8 @@
         <dd>
           ability of a system to recover operational condition quickly following an incident</dd>
 
-        <dt><b><a id="D_risk">risk</a></b> (<a href="https://www.iso.org/obp/ui/#!iso:std:74296:en">[ISO/IEC 22989:2022]</a>, 3.5.11)
+        <dt><b><a id="D_risk">risk</a></b> (<a href="https://www.iso.org/obp/ui/#!iso:std:74296:en">[ISO/IEC 22989:2022]</a>, 3.5.11), 
+            (<a href="https://www.iso.org/obp/ui#iso:std:iso-iec:38507:ed-1:v1:en">[ISO/IEC 38507:2022]</a>, 3.2.2)
         <dd>
           effect of uncertainty on objectives <br>
           Note 1 to entry: An effect is a deviation from the expected. It can be positive, negative or both and can address, create or result in opportunities and threats (3.39).<br>
@@ -1331,6 +1366,11 @@
         <dd>
           ability of a system to maintain its level of performance under any circumstances</dd>
 
+        <dt><b><a id="D_robustness">robustness</a></b> (<a href="https://www.iso.org/obp/ui#iso:std:iso-iec:tr:24029:-1:ed-1:v1:en">[ISO/IEC TR 24029-1:2021]</a>, 3.6)
+        <dd>
+          ability of an AI system to maintain its level of performance under any circumstances<br>
+          Note 1 to entry: This document mainly describes data input circumstances such as domain change but the definition is broader not to exclude hardware failure and other types of circumstances.</dd>
+
         <dt><b><a id="DS_safety">safety</a></b> (<a href="https://www.iso.org/obp/ui#iso:std:iso-iec:tr:24028:ed-1:v1:en">[ISO/IEC TR 24028:2020]</a>, 3.34)
           <dd>
           freedom from risk (3.31) which is not tolerable<br>
@@ -1345,6 +1385,11 @@
           <dd>
           degree to which a product or system (3.38) protects information (3.20) and data (3.11) so that persons or other products or systems have the degree of data access appropriate to their types and levels of authorization<br>
           [SOURCE:ISO/IEC 25010:2011, 4.2.6]</dd>
+
+        <dt><b><a id="DI_testing">testing</a></b> (<a href="https://www.iso.org/obp/ui#iso:std:iso-iec:tr:24029:-1:ed-1:v1:en">[ISO/IEC TR 24029-1:2021]</a>, 3.7)
+        <dd>
+          activity in which a system or component is executed under specified conditions, the results are observed or recorded, and an evaluation is made of some aspect of the system or component<br>
+          [SOURCE:ISO/IEC/IEEE 26513:2017, 3.42]</dd>
 
         <dt><b><a id="DS_threat">threat</a></b> (<a href="https://www.iso.org/obp/ui#iso:std:iso-iec:tr:24028:ed-1:v1:en">[ISO/IEC TR 24028:2020]</a>, 3.39)
           <dd>
@@ -1396,6 +1441,11 @@
           Note 1 to entry: The right system (3.38) was built.<br>
           [SOURCE:ISO/IEC TR 29110-1:2016, 3.73, modified — Only the last sentence of Note 1 to entry has been retained and Note 2 to entry has been removed.]</dd>
 
+        <dt><b><a id="DI_validation">validation</a></b> (<a href="https://www.iso.org/obp/ui#iso:std:iso-iec:tr:24029:-1:ed-1:v1:en">[ISO/IEC TR 24029-1:2021]</a>, 3.10)
+        <dd>
+          confirmation, through the provision of objective evidence, that the requirements (3.5) for a specific intended use or application have been fulfilled<br>
+          [SOURCE:ISO/IEC 25000:2014, 4.41, modified — Note 1 to entry has been removed.]</dd>
+
         <dt><b><a id="DS_value">value</a></b> (<a href="https://www.iso.org/obp/ui#iso:std:iso-iec:tr:24028:ed-1:v1:en">[ISO/IEC TR 24028:2020]</a>, 3.45)
           <dd>
           <data> unit of data (3.11)<br>
@@ -1417,6 +1467,11 @@
           confirmation, through the provision of objective evidence, that specified requirements have been fulfilled<br>
           Note 1 to entry: The system (3.38) was built right.<br>
           [SOURCE:ISO/IEC TR 29110-1:2016, 3.74, modified — Only the last sentence of Note 1 to entry has been retained.]</dd>
+
+        <dt><b><a id="DI_verification">verification</a></b> (<a href="https://www.iso.org/obp/ui#iso:std:iso-iec:tr:24029:-1:ed-1:v1:en">[ISO/IEC TR 24029-1:2021]</a>, 3.12)
+        <dd>
+          confirmation, through the provision of objective evidence, that specified requirements have been fulfilled<br>
+          [SOURCE:ISO/IEC 25000:2014, 4.43, modified — Note 1 to entry has been removed.]</dd>
 
         <dt><b><a id="DS_vulnerability">vulnerability</a></b> (<a href="https://www.iso.org/obp/ui#iso:std:iso-iec:tr:24028:ed-1:v1:en">[ISO/IEC TR 24028:2020]</a>, 3.48)
           <dd>
